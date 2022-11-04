@@ -29,6 +29,7 @@ Sub vba_macro_test():
         WorksheetName = ws.Name
         'Setting SummaryTable to read the second Row and start for yearly change
         SummaryTable = 2
+        'starting new row for Yearly change and percent change calculation
         Start = 2
 
         'Finding last row
