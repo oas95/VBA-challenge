@@ -7,5 +7,5 @@ Retriving each ticker and calculating yearly change, percent change, and total v
 Retrieved greatest and least yearly change, percent change, and greatest  total volume
 
 2018
-https://github.com/oas95/VBA-challenge/blob/main/Stocks_2018_Screenshot.png
+![image](https://github.com/oas95/VBA-challenge/blob/main/Stocks_2018_Screenshot.png)
 
